@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GithubSherlock. If you are interested in my project experience and research areas, please read the Navigators.
-- :microscope: I’m interested in **Control Engineering**, **Artificial Intelligence** and **Computer Vision**.
+- :microscope: I’m interested in **Control Engineering**, **Artificial Intelligence** (mainly **Machine Learning** and **Computer Vision**).
 - 🌱 I’m currently learning Machine Learning (mainly Deep Learning), Image Processing.
 - 💞️ I’m looking to collaborate on ...
 - :file_folder: If you are interested in my project experience, please refer to [Navigator on project experience](https://github.com/GithubSherlock/GithubSherlock/blob/main/NAVIGATOR%20ON%20PROJECT%20EXPERIENCE.md).
